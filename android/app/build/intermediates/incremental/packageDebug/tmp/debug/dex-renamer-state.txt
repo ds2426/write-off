@@ -1,4 +1,4 @@
-#Mon Mar 16 17:42:43 CDT 2020
+#Mon Mar 16 18:33:48 CDT 2020
 base.2=C\:\\Users\\derek\\app\\write-off-new\\write-off\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.2=classes2.dex
 base.1=C\:\\Users\\derek\\app\\write-off-new\\write-off\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
