@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "141241084423",
+    "firebase_url": "https://writeoff-3ff82.firebaseio.com",
+    "project_id": "writeoff-3ff82",
+    "storage_bucket": "writeoff-3ff82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141241084423:android:31a40a057360b3042f98a2",
+        "android_client_info": {
+          "package_name": "com.writeoff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141241084423-8o3q4eeu7lv4dg802hd37r7ldfju1d5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAboJk54_9iKoHM6MX9C5jVFQJtL1pIDGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141241084423-8o3q4eeu7lv4dg802hd37r7ldfju1d5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
